@@ -1,0 +1,14 @@
+F:\DSA\C#\Queue\Queue\obj\Debug\net6.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+F:\DSA\C#\Queue\Queue\obj\Debug\net6.0\Queue.AssemblyInfoInputs.cache
+F:\DSA\C#\Queue\Queue\obj\Debug\net6.0\Queue.AssemblyInfo.cs
+F:\DSA\C#\Queue\Queue\obj\Debug\net6.0\Queue.csproj.CoreCompileInputs.cache
+F:\DSA\C#\Queue\Queue\bin\Debug\net6.0\Queue.exe
+F:\DSA\C#\Queue\Queue\bin\Debug\net6.0\Queue.deps.json
+F:\DSA\C#\Queue\Queue\bin\Debug\net6.0\Queue.runtimeconfig.json
+F:\DSA\C#\Queue\Queue\bin\Debug\net6.0\Queue.dll
+F:\DSA\C#\Queue\Queue\bin\Debug\net6.0\Queue.pdb
+F:\DSA\C#\Queue\Queue\obj\Debug\net6.0\Queue.dll
+F:\DSA\C#\Queue\Queue\obj\Debug\net6.0\refint\Queue.dll
+F:\DSA\C#\Queue\Queue\obj\Debug\net6.0\Queue.pdb
+F:\DSA\C#\Queue\Queue\obj\Debug\net6.0\Queue.genruntimeconfig.cache
+F:\DSA\C#\Queue\Queue\obj\Debug\net6.0\ref\Queue.dll
